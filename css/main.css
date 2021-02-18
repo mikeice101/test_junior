@@ -164,7 +164,7 @@ header .header_nav {
 	height:40px;
 
 	flex-grow:1;
-	display:flex;
+	display:none;
 	justify-content:center;
 
 }
