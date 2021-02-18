@@ -1,0 +1,32 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "GraphikBold";
+	src: url("../fonts/GraphikBold/Graphik-Bold-Web.eot");
+	src: url("../fonts/GraphikBold/Graphik-Bold-Web.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/GraphikBold/Graphik-Bold-Web.ttf") format("truetype"),
+	url("../fonts/GraphikBold/Graphik-Bold-Web.woff") format("woff"),
+	url("../fonts/GraphikBold/Graphik-Bold-Web.woff2") format("woff2");
+	font-style: bold;
+	font-weight: 100;
+	
+}
+@font-face {
+	font-family: "GraphikMedium";
+	src: url("../fonts/GraphikMedium/Graphik-Medium-Web.eot");
+	src: url("../fonts/GraphikMedium/Graphik-Medium-Web.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/GraphikMedium/Graphik-Medium-Web.ttf") format("truetype"),
+	url("../fonts/GraphikMedium/Graphik-Medium-Web.woff") format("woff"),
+	url("../fonts/GraphikMedium/Graphik-Medium-Web.woff2") format("woff2");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "GraphikRegular";
+	src: url("../fonts/GraphikRegular/Graphik-Regular-Web.eot");
+	src: url("../fonts/GraphikRegular/Graphik-Regular-Web.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/GraphikRegular/Graphik-Regular-Web.ttf") format("truetype"),
+	url("../fonts/GraphikRegular/Graphik-Regular-Web.woff") format("woff"),
+	url("../fonts/GraphikRegular/Graphik-Regular-Web.woff2") format("woff2");
+	font-style: normal;
+	font-weight: normal;
+}
